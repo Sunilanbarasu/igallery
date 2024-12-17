@@ -244,8 +244,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![alt text](<sunil/gallapp/static/im 1.png>)
-![alt text](<sunil/gallapp/static/im 2.png>)
+![alt text](<gallapp/static/im 1.png>)
 
+![alt text](<gallapp/static/im 2.png>)
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
